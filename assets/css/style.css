@@ -1,0 +1,107 @@
+@font-face {
+	font-family: "Powerfull";
+	src: url("../font/Powerful.ttf");
+}
+
+html {
+	height: 100%;
+	background-color:black;
+}
+body{
+	height: 100%;
+	background-color:black;
+}
+.container-fluid {
+	
+	background-image: url(../img/bg.png);
+	background-repeat: space;
+}
+
+
+header img {
+	text-transform: uppercase;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: "Powerfull";
+	color: black;
+	
+}
+
+#bg {
+	
+}
+
+#bg1 {
+	
+	margin-top: 50px;
+}
+
+#colA {
+	display: flex;
+	flex-direction: column;
+	align-items:stretch;
+	justify-content:space-between;
+	padding: 20px;
+}
+
+#colB {
+	padding: 20px;
+}
+
+#div1{
+	
+	padding : 20px;
+	
+	border-radius: 20px;
+	font-size:1.2em;
+	color: black;
+	
+}
+
+#regle {
+	padding : 30px;
+	border-radius: 20px;
+	font-size:1.2em;
+	color: white;
+	
+	
+}
+
+
+
+main div input {
+	margin-bottom: 10px;
+	border-radius: 20px;
+	
+}
+
+p {
+	font-size: 1em;
+	font-family: "Roboto";
+	text-align: justify;
+	
+}
+
+footer {
+	height : 50px;
+	padding-top: 20px;
+	
+}
+
+label {
+	margin: 30px;
+}
+
+#input {
+	height: 50px;
+	font-size: 20px;
+}
+
+#myBtn {
+	margin-bottom: 40px;
+}
+
+#tryAgain {
+	margin-bottom: 40px;
+}
+
